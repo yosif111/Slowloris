@@ -1,5 +1,5 @@
 {
-    "name": "slowloris",
+    "name": "slowloris-attack",
     "version": "1.0.0",
     "description": "A Node.js implementation of the slowloris attack",
     "main": "slowloris.js",
