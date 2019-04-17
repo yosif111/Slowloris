@@ -1,0 +1,20 @@
+{
+    "name": "slowloris",
+    "version": "1.0.0",
+    "description": "A Node.js implementation of the slowloris attack",
+    "main": "slowloris.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Yousef Alkhalifah yalkhlefah@gmail.com",
+    "license": "ISC",
+    "dependencies": {
+        "colors": "^1.3.3",
+        "commander": "^2.19.0",
+        "signale": "^1.4.0"
+    },
+    "devDependencies": {
+        "eslint": "^5.15.3",
+        "eslint-config-google": "^0.12.0"
+    }
+}
