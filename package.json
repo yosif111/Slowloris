@@ -1,6 +1,6 @@
 {
     "name": "slowloris-attack",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A Node.js implementation of the slowloris attack",
     "main": "slowloris.js",
     "scripts": {
@@ -8,6 +8,9 @@
     },
     "author": "Yousef Alkhalifah yalkhlefah@gmail.com",
     "license": "ISC",
+    "bin": {
+        "slowloris": "./slowloris"
+    },
     "dependencies": {
         "colors": "^1.3.3",
         "commander": "^2.19.0",
