@@ -1,6 +1,6 @@
 {
     "name": "slowloris-attack",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "A Node.js implementation of the slowloris attack",
     "main": "./lib/index.js",
     "scripts": {
