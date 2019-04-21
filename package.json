@@ -1,6 +1,6 @@
 {
     "name": "slowloris-attack",
-    "version": "1.0.9",
+    "version": "1.0.11",
     "description": "A Node.js implementation of the slowloris attack",
     "main": "./lib/index.js",
     "scripts": {
@@ -20,5 +20,8 @@
     "devDependencies": {
         "eslint": "^5.15.3",
         "eslint-config-google": "^0.12.0"
-    }
+    },
+    "keywords": ["slowloris", "attack", "DDoS", "TLS", "Apache DDoS", "slow loris"],
+    "homepage": "https://github.com/yosif111/Slowloris"
+
 }
