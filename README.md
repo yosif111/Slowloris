@@ -1,5 +1,9 @@
+![slow loris picture](https://upload.wikimedia.org/wikipedia/commons/b/b8/Slowloris_DDOS.png)
+
 ## Slowloris
 A Node.js implementation of the slowloris attack. With TLS Support.
+
+
 
 ## What is Slowloris?
 > Slowloris is DDoS attack software that enables a single computer to take down a web server. Due the simple yet elegant nature of this attack, it requires minimal bandwidth to implement and affects the target server’s web server only, with almost no side effects on other services and ports.
@@ -25,4 +29,4 @@ Options:
 
 Note that this utility is intended for testing purposes.
 ## License 
-[MIT License]https://opensource.org/licenses/MIT
+[MIT License](https://opensource.org/licenses/MIT)
